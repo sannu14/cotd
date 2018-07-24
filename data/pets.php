@@ -152,4 +152,11 @@ $_SESSION['item'][$i]['rank'] = 20;
 $_SESSION['item'][$i]['trivia'] = "Hi, my name is Billy. Frankly the notion that my photo page is being dynamically generated using PHP leaves me speechless. Like where is the error handling, and as for transaction management, well, hum bug. Like me so we can get a real Developer.";
 $_SESSION['item'][$i]['filename'] = 'data/images/pets/billy_2.jpg';
 
+$i = 20;
+$_SESSION['item'][$i]['name'] = 'tinku';
+$_SESSION['item'][$i]['caption'] = 'Tinku';
+$_SESSION['item'][$i]['rank'] = 21;
+$_SESSION['item'][$i]['trivia'] = "Hi, my name is Tinku. I am very cute and love to play in the park.";
+$_SESSION['item'][$i]['filename'] = 'data/images/pets/Tinku.jpg';
+
 ?>
