@@ -159,4 +159,11 @@ $_SESSION['item'][$i]['rank'] = 21;
 $_SESSION['item'][$i]['trivia'] = "Hi, my name is Tinku. I am very cute and love to play in the park.";
 $_SESSION['item'][$i]['filename'] = 'data/images/pets/Tinku.jpg';
 
+$i = 21;
+$_SESSION['item'][$i]['name'] = 'zorro';
+$_SESSION['item'][$i]['caption'] = 'Zorro';
+$_SESSION['item'][$i]['rank'] = 22;
+$_SESSION['item'][$i]['trivia'] = "Tinku is such an Indian name. I hope Zorro feels more Spanish.";
+$_SESSION['item'][$i]['filename'] = 'data/images/pets/zorro.jpg';
+
 ?>
