@@ -167,4 +167,3 @@ $_SESSION['item'][$i]['trivia'] = "Tinku is such an Indian name. I hope Zorro fe
 $_SESSION['item'][$i]['filename'] = 'data/images/pets/zorro.jpg';
 
 ?>
-
