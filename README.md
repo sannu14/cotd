@@ -80,3 +80,4 @@ You may also wish to enable live reload for php image (don't do this in prod)
 For now:
 
     ./parseCotdLogs.pl $(oc get pods | grep cotd | grep Running | awk '{print $1}')
+	
